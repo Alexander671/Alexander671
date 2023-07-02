@@ -1,10 +1,9 @@
 # 👋 &nbsp;Hi there! I am Alexander
 
-I'm a backend Python developer. I enjoy coding web application and want to improve in web3, machine learning. You can see my code examples on this page. If you want to contact me, write to telegram - @oziboy1
+I'm a backend Python developer. I enjoy coding web application and want to improve in web3, machine learning. You can see my code examples on this page. If you want to contact me, write to telegram - @oziboy1  &nbsp; <p>
 
-&nbsp;
-
-## 🧰 &nbsp;My toolbox
+[![Telegram](https://img.shields.io/static/v1?label=telegram&message=oziboy1&link=https://t.me/oziboy1&labelColor=black&color=purple&?&style=for-the-badge&logo=telegram)](https://t.me/oziboy1)
+## 🧰 &nbsp;My toolbox 
 
    <img  src="https://github.com/Alexander671/Alexander671/blob/main/assets/python.png" alt="Python" width="50" height="50"/> &nbsp;
    <img  src="https://github.com/Alexander671/Alexander671/blob/main/assets/haskell.png" alt="Haskell" width="50" height="50"/> &nbsp; 
@@ -20,9 +19,12 @@ I'm a backend Python developer. I enjoy coding web application and want to impro
    <img  src="https://github.com/Alexander671/Alexander671/blob/main/assets/docker.png" alt="docker" width="60" height="60"/> &nbsp;
 
 
-## 👇 &nbsp;Current project
+## 👇 &nbsp;Code examples
 
 I'm currently working on [@Tweetormator](https://twitter.com/tweetormator). A self-hosted solution for tweet scheduling and analytics aimed at home labs. It will be free and open source. Follow the [Twitter](https://twitter.com/tweetormator) feed to keep up with progress.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/love-lock-card)
+
 
 &nbsp;
 
@@ -32,12 +34,6 @@ I'm currently working on [@Tweetormator](https://twitter.com/tweetormator). A se
 - [Internals of the Ethereum blockchain database](https://habr.com)
 
 <!-- BLOG-POST-LIST:END -->
-
-&nbsp;
-
-## 🖥 &nbsp;Past work
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/love-lock-card)
 
 &nbsp;
 
