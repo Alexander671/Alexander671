@@ -21,9 +21,7 @@ I'm a backend Python developer. I enjoy coding web application and want to impro
 
 ## 👇 &nbsp;Code examples
 
-I'm currently working on [@Tweetormator](https://twitter.com/tweetormator). A self-hosted solution for tweet scheduling and analytics aimed at home labs. It will be free and open source. Follow the [Twitter](https://twitter.com/tweetormator) feed to keep up with progress.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/love-lock-card)
+* <a href="https://gist.github.com/Alexander671/22ba59fde2c6c7134d1d4f19c624037f" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">connect to Ethereum smart contract (Python, web3 library) </a>
 
 
 &nbsp;
