@@ -26,15 +26,6 @@ I'm a backend Python developer. I enjoy coding web application and want to impro
 
 &nbsp;
 
-## ✏️ &nbsp;Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Internals of the Ethereum blockchain database](https://habr.com)
-
-<!-- BLOG-POST-LIST:END -->
-
-&nbsp;
-
 ## 📊 &nbsp;Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexander671&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
