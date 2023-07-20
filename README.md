@@ -21,7 +21,7 @@ I'm a backend Python developer. I enjoy coding web application and want to impro
 
 ## 👇 &nbsp;Code examples
 
-* <a href="https://gist.github.com/Alexander671/22ba59fde2c6c7134d1d4f19c624037f" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">connect to Ethereum smart contract (Python, web3 library) </a>
+* <a href="https://gist.github.com/Alexander671/22ba59fde2c6c7134d1d4f19c624037f" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">Сonnect to Ethereum smart contract (Python, web3 library) </a>
 * <a href="https://gist.github.com/Alexander671/d1c7d193435ce0490268e2c0ea42a5e3" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">Ethereum-ETL tool that makes data migration. For example, ENS domains (Python, requests library) </a>
 
 &nbsp;
